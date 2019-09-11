@@ -1,9 +1,10 @@
 import React from 'react';
+import './index.css';
 
 function App() {
   return (
     <main className='App'>
-      {<p>This is my app</p>}
+       <h1>Precedential Task</h1>
     </main>
   );
 }
