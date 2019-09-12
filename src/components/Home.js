@@ -6,7 +6,10 @@ export default class Home extends Component {
       <div className="home">
         { this.props.children }
         <h1>Precedential Task</h1>
-    <p>Manage your tasks by identifying the various roles in your life</p>
+        <div>Priority One</div>
+    <div>Priority Two</div>
+    <div>Priority Three</div>
+    <div>Priority Four</div>
       </div>
     )
   }
